@@ -1,3 +1,4 @@
+![logo](https://github.com/areebalodhi01/Areebalodhi/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Areeba lodhi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
